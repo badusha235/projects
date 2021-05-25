@@ -1,0 +1,22 @@
+
+body{
+    background-color: darkcyan;
+}
+h1{
+    color: cornsilk;
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+    color: cyan;
+}
+
+.moive{
+    background-color: blueviolet;
+    float: left;
+
+}
+class_moive{
+    width: 50%;
+}

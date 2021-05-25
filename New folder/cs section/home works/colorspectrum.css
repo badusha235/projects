@@ -1,0 +1,34 @@
+h1{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blanchedalmond;
+    text-align: center;
+}
+body{
+    background-color: black;
+
+}
+.project{
+        
+        height: 190px;
+        width: 10%;
+        margin: 5px;
+        float: left;
+        border:2px solid rgb(70, 5, 5)
+        
+    
+}
+.first{
+    background-color: powderblue;
+}
+.sec{
+    background-color: darkgoldenrod;
+}
+.th{
+    background-color: floralwhite;
+}
+.for{
+    background-color: mediumblue;
+}
+.fi{
+    background-color: purple;
+}
