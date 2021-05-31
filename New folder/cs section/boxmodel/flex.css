@@ -1,0 +1,100 @@
+header{
+    background-color: rgb(238, 255, 0);
+    height: 50px;
+
+
+}
+ul{
+    display: inline block;
+    padding-left: 9px;
+    padding-top: 15px;
+}
+li{
+    display: inline;
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+
+}
+a:hover{
+    background-color: rgb(2, 87, 214,.4);
+}
+.col{
+    width: 50%;
+    height: 750px;
+    border: 2px solid black;
+    padding: 2px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(2, 2, 17, 0.801);
+}
+.row{
+    width: 100%;
+    height: 850px;
+    padding: 3px;
+   display: flex;
+   justify-content: space-around;
+
+
+}
+.col img{
+    width: 70%;
+    height: 350px;
+
+}
+.badu{
+    height: 250px;
+    width: 30%;
+    position: absolute;
+    top: 70%;
+}
+p{
+    color: cornsilk;
+}
+h1{
+    color: cornsilk;
+}
+.rate{
+    background-color: aliceblue;
+    height: 200px;
+    width: 31%;
+    position: absolute;
+    top: 600px;
+    display: flex;
+
+}
+#id1{
+    background-color: rgba(2, 2, 17, 0.801);
+    height: 100px;
+    width: 35%;
+    border: 1px solid black;
+    text-shadow: black;
+}
+#b{
+    color: blanchedalmond;
+    text-decoration: underline;
+    
+}
+p.small{
+    line-height: 0.1;
+}
+.likes{
+background-color: rgba(2, 2, 17, 0.801);
+height: 100px;
+width: 100%;
+position: absolute;
+
+top: 100px;
+display: flex;
+}
+#botton{
+    height: 100px;
+    width: 50%;
+    padding-left: 20px;
+    border: 1px solid black;
+
+    
+}

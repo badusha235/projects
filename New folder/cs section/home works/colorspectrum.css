@@ -4,11 +4,11 @@ h1{
     text-align: center;
 }
 body{
-    background-color: black;
+    background-color: rgb(61, 4, 4);
 
 }
 .project{
-        
+      
         height: 190px;
         width: 10%;
         margin: 5px;
@@ -31,4 +31,15 @@ body{
 }
 .fi{
     background-color: purple;
+}
+#mar{
+    margin-left: 25%;
+}
+.badu{
+    height: 190px;
+    width: 10%;   
+    border:2px solid rgb(70, 5, 5)
+}
+left{
+    float:left
 }

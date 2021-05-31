@@ -1,0 +1,42 @@
+.parent{
+    height: 200px;
+    width: 30%;
+    border: 2px solid black;
+    position: relative;
+    top: 100px;
+    left: 40%;
+    background-color: chartreuse;
+}
+.child{
+    background-color: burlywood;
+    position: absolute;
+    height: 80px;
+    width: 20%;
+    top: 25%;
+    border: 2px solid black;
+    margin: 2px;
+
+
+
+}
+.child3{
+    background-color: burlywood;
+    position: absolute;
+    height: 80px;
+    width: 20%;
+    top: 25%;
+    left: 22%;
+    border: 2px solid black;
+    margin: 2px;
+}
+
+
+.child5{
+    background-color: burlywood;
+    position: -webkit-sticky;
+    position: sticky;
+    height: 80px;
+    width: 20%;
+    top: 25%;
+    border: 2px solid black;
+    margin: 2px;
